@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_ambientBrighteningThresholds">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>100</item>
+        <item>400</item>
+        <item>600</item>
+        <item>1000</item>
+    </array>
+    <array name="config_ambientDarkeningThresholds">
+        <item>800</item>
+        <item>800</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </array>
+    <array name="config_ambientThresholdLevels">
+        <item>2</item>
+        <item>10</item>
+        <item>30</item>
+        <item>100</item>
+        <item>800</item>
+        <item>2000</item>
+        <item>4000</item>
+    </array>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <item>3.5</item>
+        <item>4.8</item>
+        <item>6</item>
+        <item>15</item>
+        <item>21</item>
+        <item>27</item>
+        <item>36</item>
+        <item>52</item>
+        <item>71</item>
+        <item>87</item>
+        <item>97</item>
+        <item>98</item>
+        <item>98</item>
+        <item>98</item>
+        <item>99</item>
+        <item>99</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>101</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>103</item>
+        <item>103</item>
+        <item>106</item>
+        <item>108</item>
+        <item>110</item>
+        <item>112</item>
+        <item>114</item>
+        <item>116</item>
+        <item>118</item>
+        <item>119</item>
+        <item>122</item>
+        <item>123</item>
+        <item>125</item>
+        <item>128</item>
+        <item>130</item>
+        <item>131</item>
+        <item>134</item>
+        <item>136</item>
+        <item>137</item>
+        <item>140</item>
+        <item>142</item>
+        <item>144</item>
+        <item>169</item>
+        <item>196</item>
+        <item>222</item>
+        <item>248</item>
+        <item>270</item>
+        <item>300</item>
+        <item>320</item>
+        <item>335</item>
+        <item>400</item>
+        <item>416.7</item>
+        <item>433.3</item>
+        <item>450</item>
+        <item>466.7</item>
+        <item>483.3</item>
+        <item>500</item>
+    </array>
+    <array name="config_autoBrightnessLcdBacklightValues">
+        <item>18</item>
+        <item>25</item>
+        <item>31</item>
+        <item>77</item>
+        <item>107</item>
+        <item>138</item>
+        <item>184</item>
+        <item>266</item>
+        <item>363</item>
+        <item>445</item>
+        <item>496</item>
+        <item>501</item>
+        <item>501</item>
+        <item>501</item>
+        <item>507</item>
+        <item>507</item>
+        <item>512</item>
+        <item>512</item>
+        <item>512</item>
+        <item>517</item>
+        <item>517</item>
+        <item>522</item>
+        <item>527</item>
+        <item>527</item>
+        <item>527</item>
+        <item>542</item>
+        <item>553</item>
+        <item>563</item>
+        <item>573</item>
+        <item>583</item>
+        <item>594</item>
+        <item>604</item>
+        <item>609</item>
+        <item>624</item>
+        <item>629</item>
+        <item>640</item>
+        <item>655</item>
+        <item>665</item>
+        <item>670</item>
+        <item>686</item>
+        <item>696</item>
+        <item>701</item>
+        <item>716</item>
+        <item>727</item>
+        <item>737</item>
+        <item>865</item>
+        <item>1003</item>
+        <item>1136</item>
+        <item>1269</item>
+        <item>1382</item>
+        <item>1535</item>
+        <item>1638</item>
+        <item>1714</item>
+        <item>2047</item>
+        <item>2047</item>
+        <item>2047</item>
+        <item>2047</item>
+        <item>2047</item>
+        <item>2047</item>
+        <item>2047</item>
+    </array>
+    <array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+        <item>120</item>
+        <item>140</item>
+        <item>160</item>
+        <item>180</item>
+        <item>200</item>
+        <item>220</item>
+        <item>240</item>
+        <item>260</item>
+        <item>280</item>
+        <item>300</item>
+        <item>320</item>
+        <item>340</item>
+        <item>360</item>
+        <item>380</item>
+        <item>400</item>
+        <item>420</item>
+        <item>440</item>
+        <item>460</item>
+        <item>480</item>
+        <item>500</item>
+        <item>700</item>
+        <item>900</item>
+        <item>1100</item>
+        <item>1300</item>
+        <item>1500</item>
+        <item>1700</item>
+        <item>1900</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>3500</item>
+        <item>4000</item>
+        <item>4500</item>
+        <item>5000</item>
+        <item>5500</item>
+    </string-array>
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/arm64/boot.oat</item>
+        <item>/system/framework/arm/boot.oat</item>
+        <item>/system/framework/arm64/boot-core-libart.oat</item>
+        <item>/system/framework/arm/boot-core-libart.oat</item>
+        <item>/system/lib64/libRScpp.so</item>
+        <item>/system/lib64/libRS.so</item>
+        <item>/system/lib64/libRS_internal.so</item>
+        <item>/system/lib64/libbcinfo.so</item>
+        <item>/system/lib64/libRSDriver.so</item>
+        <item>/system/lib64/libRSCpuRef.so</item>
+        <item>/system/lib64/libblas.so</item>
+    </string-array>
+    <string-array name="config_longPressVibePattern">
+        <item>@null</item>
+        <item>1</item>
+        <item>75</item>
+        <item>76</item>
+    </string-array>
+    <string-array name="config_screenBrighteningThresholds">
+        <item>@null</item>
+    </string-array>
+    <string-array name="config_screenDarkeningThresholds">
+        <item>@null</item>
+    </string-array>
+    <string-array name="config_screenThresholdLevels">
+    </string-array>
+    <string-array name="config_virtualKeyVibePattern">
+        <item>@null</item>
+        <item>30</item>
+        <item>45</item>
+        <item>53</item>
+    </string-array>
+    <string-array name="correct_brightness_video">
+        <item>0.0293</item>
+        <item>0.0293</item>
+        <item>0.0293</item>
+        <item>0.0582</item>
+        <item>0.0679</item>
+        <item>0.0838</item>
+        <item>0.0977</item>
+        <item>0.1075</item>
+        <item>0.1075</item>
+    </string-array>
+    <string-array name="required_apps_managed_device">
+        <item>com.android.settings</item>
+        <item>com.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.android.stk</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.thememanager</item>
+    </string-array>
+    <string-array name="vendor_required_apps_managed_device">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+        <item>com.google.android.apps.wellbeing</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.setupwizard</item>
+        <item>com.google.android.documentsui</item>
+        <item>com.google.android.go.documentsui</item>
+        <item>com.google.android.apps.assistant</item>
+        <item>com.google.android.projection.gearhead</item>
+        <item>com.google.android.apps.accessibility.voiceaccess</item>
+        <item>com.google.android.apps.searchlite</item>
+        <item>com.google.android.cellbroadcastreceiver</item>
+        <item>com.android.camera</item>
+        <item>com.google.android.launcher</item>
+        <item>com.android.launcher</item>
+        <item>com.android.contacts</item>
+        <item>com.miui.home</item>
+        <item>com.mi.android.globallauncher</item>
+    </string-array>
+
+<string-array name="config_availableColorModes">
+        <item>-1</item>
+    </string-array>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+    </string-array>
+
+<!-- Bools -->
+
+    <bool name="config_adaptive_sleep_available">false</bool>
+    <bool name="config_cellBroadcastAppLinks">true</bool>
+    <bool name="config_displayBlanksAfterDoze">false</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_spatial_audio_head_tracking_enabled_default">true</bool>
+    <bool name="config_stopSystemPackagesByDefault">false</bool>
+    <bool name="config_supportsCamToggle">true</bool>
+    <bool name="config_supportsMicToggle">true</bool>
+    <bool name="config_telephony5gNonStandalone">true</bool>
+    <bool name="config_telephony5gStandalone">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_enableWifiDisplay">true</bool>
+    <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
+
+<!-- Integers -->
+
+    <integer name="config_autoBrightnessBrighteningLightDebounce">1000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">1000</integer>
+    <integer name="config_brightness_ramp_rate_fast">2466</integer>
+    <integer name="config_brightness_ramp_rate_slow">1973</integer>
+    <integer name="config_defaultPeakRefreshRate">60</integer>
+    <integer name="config_screenBrightnessDim">20</integer>
+    <integer name="config_screenBrightnessSettingDefault">307</integer>
+    <integer name="config_screenBrightnessSettingMaximum">2047</integer>
+    <integer name="config_screenBrightnessSettingMinimum">8</integer>
+    <integer name="config_shutdownBatteryTemperature">580</integer>
+    <integer name="config_num_physical_slots">2</integer>
+    <integer name="config_screenBrightnessDoze">5</integer>
+    <integer name="config_shortPressOnPowerBehavior">1</integer>
+    <integer name="config_defaultPeakRefreshRate">0</integer>
+    <integer name="config_defaultRefreshRate">0</integer>
+
+<!-- Strings -->
+
+    <string name="allow">Allow</string>
+    <string name="config_defaultAutofillService">com.google.android.gms/.autofill.service.AutofillService</string>
+    <string name="config_defaultListenerAccessPackages">com.android.launcher3:com.google.android.projection.gearhead:com.xiaomi.barrage:com.xiaomi.misubscreenui</string>
+    <string name="config_screenshotServiceComponent">com.miui.screenshot/com.miui.screenshot.TakeScreenshotService</string>
+    <string name="deny">Deny</string>
+    <string name="config_dozeComponent">com.android.dreams.alwaysondisplay/.AlwaysOnDisplay</string>
+
+<!-- Array from "MiuiFrameworkResOverlay.apk" -->
+
+    <string-array name="config_compensateSignalLevelValue">
+        <item>@null</item>
+        <item>3</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="config_hightGrayBrightnessLevels">
+        <item>600</item>
+        <item>2000</item>
+        <item>4800</item>
+        <item>6000</item>
+        <item>8191</item>
+    </string-array>
+    <string-array name="config_lowGrayBrightnessLevels">
+        <item>400</item>
+        <item>600</item>
+        <item>2800</item>
+        <item>3200</item>
+        <item>8191</item>
+    </string-array>
+    <string-array name="process_secretly_protect_list">
+        <item>com.tencent.mm</item>
+        <item>com.google.android.gms</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.xiaomi.channel:remote</item>
+        <item>com.android.cts.widgetprovider</item>
+        <item>com.android.cts.launcherapps.simpleapp</item>
+        <item>com.android.cts.launcherapps.simpleapp:remote</item>
+        <item>com.android.cts.managedprofile</item>
+        <item>com.android.cts.testapps.testapp1</item>
+        <item>com.android.cts.testapps.testapp2</item>
+        <item>com.android.cts.testapps.testapp3</item>
+        <item>com.android.cts.testapps.testapp4</item>
+        <item>android.server.wm.app</item>
+        <item>com.android.cts.verifier</item>
+        <item>com.android.cts.launchertests.support</item>
+        <item>android.app.stubs:hbact</item>
+        <item>android.app.stubs:hbsvc</item>
+        <item>android.content.syncmanager.cts.app1</item>
+        <item>android.media.misc.cts:mediaCodecTestProcess1</item>
+        <item>android.media.misc.cts:mediaCodecTestProcess2</item>
+        <item>android.media.misc.cts:mediaCodecTestProcess3</item>
+        <item>android.media.misc.cts:mediaCodecTestProcess4</item>
+    </string-array>
+
+<!-- Bool from "MiuiFrameworkResOverlay.apk" -->
+
+    <bool name="config_automatic_brightness_usetouch">true</bool>
+    <bool name="config_brightness_useassistsensor">false</bool>
+    <bool name="config_brightness_usemotionsensor">true</bool>
+    <bool name="config_brightness_useprox">true</bool>
+    <bool name="config_displayFeatureCallbackSupported">true</bool>
+    <bool name="config_enableCompensateSignalLevel">true</bool>
+    <bool name="config_frontcamera_circle_black">false</bool>
+    <bool name="config_net_slm_supported">true</bool>
+    <bool name="config_nightLightAdjSupported">false</bool>
+    <bool name="config_sap_same_band_as_wifi">true</bool>
+    <bool name="config_smd_effect">true</bool>
+    <bool name="config_support_hbm">false</bool>
+    <bool name="is_dirac_supported">true</bool>
+    <bool name="support_video_hdr_mode">true</bool>
+
+<!-- Integer from "MiuiFrameworkResOverlay.apk" -->
+
+    <integer name="config_assistsensor_maxthreshold">50000</integer>
+    <integer name="config_assistsensor_threshold">50000</integer>
+    <integer name="config_auto_brightness_rates_slow">16</integer>
+    <integer name="config_auto_brightness_touch_event_debounce">1</integer>
+    <integer name="config_autobrightness_dark_brightness">196</integer>
+    <integer name="config_autobrightness_dark_rate">40</integer>
+    <integer name="config_automatic_brightness_touchbottom">200</integer>
+    <integer name="config_automatic_brightness_touchleft">240</integer>
+    <integer name="config_automatic_brightness_touchright">840</integer>
+    <integer name="config_automatic_brightness_touchtop">0</integer>
+    <integer name="config_back_tap_touch_event_debounce">2000</integer>
+    <integer name="config_backlightBit">11</integer>
+    <integer name="config_brightness_brightening_rate">900</integer>
+    <integer name="config_brightness_darken_threshold">240</integer>
+    <integer name="config_brightness_skipdebounce">10000</integer>
+    <integer name="config_dynamicdebounce1">10000</integer>
+    <integer name="config_dynamicdebounce2">2000</integer>
+    <integer name="config_nightLightBrightnessDefault">8</integer>
+    <integer name="config_nightLightBrightnessMaximum">11</integer>
+    <integer name="config_nightLightBrightnessMinimum">4</integer>
+    <integer name="config_nightLightColorDefault">35</integer>
+    <integer name="config_nightLightColorMaximum">44</integer>
+    <integer name="config_nightLightColorMinimum">31</integer>
+    <integer name="config_slow_ratio">12</integer>
+
+<!-- Strings from "MiuiFrameworkResOverlay.apk" -->
+
+    <string name="double_click_power_key">none</string>
+    <string name="double_knock">launch_google_search</string>
+    <string name="long_press_home_key">launch_google_search</string>
+
+</resources>
+    
